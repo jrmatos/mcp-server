@@ -25,7 +25,7 @@ This project provides a server implementation that allows interaction with a tod
 
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone git@github.com:jrmatos/mcp-server.git
 cd mcp-todo-server
 
 # Install dependencies
